@@ -105,7 +105,7 @@ googleAnalytics = "UA-36930002-1"
 
 [[menu.main]]
     name = "Blog"
-    url = "page/blog/"
+    url = "post/"
     weight = 2
 
 [[menu.main]]

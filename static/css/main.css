@@ -1,4 +1,5 @@
 /* --- General --- */
+/* pyladies color = #F9013C */
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -37,7 +38,7 @@ p + p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: #F9013C;
 }
 /* @media (prefers-color-scheme: dark) {
   p a {
@@ -50,7 +51,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #F9013C;
 }
 /* @media (prefers-color-scheme: dark) {
   a {
@@ -59,7 +60,7 @@ a {
 } */
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #999;
 }
 blockquote {
   color: #808080;
@@ -77,7 +78,14 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: inherit;
+  border-color: #F9013C;
+  border-radius: 3px;
+}
+
+hr {
+  /* max-width: 200px; */
+  border-width: 2px;
+  border-color: #F9013C;
   border-radius: 3px;
 }
 
@@ -120,7 +128,7 @@ div.panel-body a.list-group-item.view-all {
 ::-moz-selection, ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #F9013C;
 }
 img::selection, img::-moz-selection {
   color: white;
@@ -445,7 +453,7 @@ footer div.disclaimer {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #F9013C;
 }
 
 .post-preview .post-title {
@@ -525,7 +533,7 @@ footer div.disclaimer {
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: #F9013C;
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -536,7 +544,7 @@ footer div.disclaimer {
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #F9013C;
   background-color: #CCC;
 }
 
@@ -608,7 +616,7 @@ footer div.disclaimer {
 .intro-header .tags-heading h1,
 .intro-header .categories-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 35px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -663,7 +671,7 @@ footer div.disclaimer {
   .intro-header .page-heading h1,
   .intro-header .tags-heading h1,
   .intro-header .categories-heading h1 {
-    font-size: 80px;
+    font-size: 50px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
@@ -738,8 +746,8 @@ footer div.disclaimer {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #F9013C;
+  border: 1px solid #F9013C;
 }
 
 /* @media (prefers-color-scheme: dark) {
@@ -872,8 +880,8 @@ div.splitbox div.right {
 .disqus-comments button:hover,
 .disqus-comments button:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #F9013C;
+  border: 1px solid #F9013C;
 }
 
 /* Related posts */
