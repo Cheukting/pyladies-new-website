@@ -94,13 +94,13 @@ googleAnalytics = "UA-36930002-1"
 [[menu.main]]
     parent = "about"
     name = "Members"
-    url = "page/members/"
+    url = "https://members.pyladies.com/"
     weight = 2
 
 [[menu.main]]
     parent = "about"
     name = "Locations"
-    url = "page/locations/"
+    url = "https://chapters.pyladies.com/"
     weight = 3
 
 [[menu.main]]
