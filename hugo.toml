@@ -26,7 +26,7 @@ googleAnalytics = "UA-36930002-1"
   readingTime = true
   wordCount = true
   useHLJS = true
-  socialShare = true
+  socialShare = false
   delayDisqus = true
   showRelatedPosts = true
 #  hideAuthor = true
@@ -79,40 +79,63 @@ googleAnalytics = "UA-36930002-1"
   # discord = "invite code (https://discord.gg/XXXXXXX)"
   # strava = "userid"
 
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    weight = 1
+
+[[menu.main]]
+    parent = "about"
+    name = "About PyLadies"
+    url = "page/about/"
+    weight = 1
+
+[[menu.main]]
+    parent = "about"
+    name = "Members"
+    url = "page/members/"
+    weight = 2
+
+[[menu.main]]
+    parent = "about"
+    name = "Locations"
+    url = "page/locations/"
+    weight = 3
+
 [[menu.main]]
     name = "Blog"
-    url = ""
-    weight = 1
-
-[[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    url = "page/blog/"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
+    name = "Code of Conduct"
+    url = "page/coc/"
+    weight = 3
+
+[[menu.main]]
+    name = "Resources"
+    url = "page/resources/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contacts"
+    url = "https://github.com/pyladies/info/"
+    weight = 5
+
+[[menu.main]]
+    identifier = "support"
+    name = "Support"
+    weight = 6
+
+[[menu.main]]
+    parent = "support"
+    name = "Sponsor Us"
+    url = "page/sponsor/"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
+    parent = "support"
+    name = "Get Swag"
+    url = "https://pyladies.myspreadshop.com/"
     weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3

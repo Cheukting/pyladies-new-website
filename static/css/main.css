@@ -436,11 +436,11 @@ footer div.disclaimer {
   text-decoration: none;
   color: #404040;
 }
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   .post-preview a {
     color: #AAA;
   }
-}
+} */
 
 .post-preview a:focus,
 .post-preview a:hover {
@@ -742,12 +742,12 @@ footer div.disclaimer {
   border: 1px solid #0085a1;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
 .pager li a {
   background: #444;
   color: white;
 }
-}
+} */
 
 .pager {
   margin: 10px 0 0;
@@ -778,19 +778,19 @@ table tr {
   margin: 0;
   padding: 0;
 }
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
 }
 table tr:nth-child(2n) {
   background-color: #f8f8f8;
-}
-@media (prefers-color-scheme: dark) {
+} */
+/* @media (prefers-color-scheme: dark) {
 table tr {
   background-color: #181818;
 }
 table tr:nth-child(2n) {
   background-color: #303030
 }
-}
+} */
 table tr th {
   font-weight: bold;
   border: 1px solid #cccccc;
@@ -918,8 +918,14 @@ h4.see-also {
   transform: scale(1.4)
 }
 
+
+/* over ride dark mode */
+.well {
+  background-color: #F5F5F5;
+}
+
 /* Dark mode */
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   code {
     background-color: #222;
     color: #fbb;
@@ -956,7 +962,7 @@ h4.see-also {
   pre.chroma .ow {
     color: #CC0;
   }
-}
+} */
 
 /* --- Make long KaTeX equations scrollable in the x-axis --- */
 .katex-display>.katex {
