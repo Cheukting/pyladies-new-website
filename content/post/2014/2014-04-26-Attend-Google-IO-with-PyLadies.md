@@ -1,4 +1,5 @@
 ---
+date: 2014-04-26
 layout: post.html
 title: "Attend Google I/O with PyLadies!"
 tags: [Announcements, outreach, Conferences]

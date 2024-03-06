@@ -1,4 +1,5 @@
 ---
+date: 2013-01-28
 layout: post.html
 title: "PyLadies Lunch @ PyCon"
 tags: [PyCon, events]

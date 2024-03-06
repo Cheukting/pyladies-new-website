@@ -1,4 +1,5 @@
 ---
+date: 2014-08-25
 layout: post.html
 title: "PyLadies Values People"
 tags: [community, outreach]

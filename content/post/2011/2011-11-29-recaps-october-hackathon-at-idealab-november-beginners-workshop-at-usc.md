@@ -1,4 +1,5 @@
 ---
+date: 2011-11-29
 layout: post.html
 title: "Recaps: October Hackathon, November Beginner's Workshop"
 tags: [Events]

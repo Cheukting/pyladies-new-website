@@ -1,4 +1,5 @@
 ---
+date: 2014-03-27
 layout: post.html
 title: "PyLadies @ PyCon 2014"
 tags: [pycon, events]

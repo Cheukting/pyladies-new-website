@@ -1,4 +1,5 @@
 ---
+date: 2015-02-01
 layout: post.html
 title: "PyLadies at PyTennessee"
 tags: [pytn, young coders, auction, scale13x, writers]

@@ -1,4 +1,5 @@
 ---
+date: 2012-04-12
 layout: post.html
 title: Welcome to mynt
 tags: [Initial]

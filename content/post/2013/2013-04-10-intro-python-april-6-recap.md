@@ -1,4 +1,5 @@
 ---
+date: 2013-04-10
 layout: post.html
 title: "Intro to Python, April 6 - Recap"
 tags: [Python, events, education]

@@ -1,4 +1,5 @@
 ---
+date: 2012-08-25
 layout: post.html
 title: PyCon Proposal Brainstorm Session Aug 27th  
 tags: [Events]

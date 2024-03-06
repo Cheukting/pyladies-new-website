@@ -1,4 +1,5 @@
 ---
+date: 2011-12-15
 layout: post.html
 title: Call for PyCon Applications and Sponsors
 tags: [PyCon]

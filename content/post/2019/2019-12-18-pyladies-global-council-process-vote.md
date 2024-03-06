@@ -1,4 +1,5 @@
 ---
+date: 2019-12-18
 layout: post.html
 title: "PyLadies Global Council Selection Process Voting Now Open!"
 tags: [PyLadies, Global, Organizing]

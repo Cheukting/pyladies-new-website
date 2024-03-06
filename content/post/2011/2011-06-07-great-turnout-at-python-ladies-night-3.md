@@ -1,4 +1,5 @@
 ---
+date: 2011-06-07
 layout: post.html
 title: Great turnout at the Python Ladies Night 3
 tags: [Conferences]

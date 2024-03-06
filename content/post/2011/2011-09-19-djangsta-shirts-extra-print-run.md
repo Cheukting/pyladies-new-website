@@ -1,4 +1,5 @@
 ---
+date: 2011-09-19
 layout: post.html
 title: Djangsta Shirts - Extra Print Run!
 tags: [Django]

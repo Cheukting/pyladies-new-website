@@ -1,4 +1,5 @@
 ---
+date: 2014-09-14
 layout: post.html
 title: "Community"
 tags: [workshops, community building]

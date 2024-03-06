@@ -1,4 +1,5 @@
 ---
+date: 2023-09-15
 layout: post.html
 title: "PyLadiesCon - CFP 外展套件"
 tags: [PyLadies, Conference, Global]

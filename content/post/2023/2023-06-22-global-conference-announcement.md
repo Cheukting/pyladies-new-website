@@ -1,4 +1,5 @@
 ---
+date: 2023-06-22
 layout: post.html
 title: "Announcement: PyLadies Conference"
 tags: [PyLadies, Conference, Global]

@@ -1,4 +1,5 @@
 ---
+date: 2011-09-06
 layout: post.html
 title: Djangsta Shirts on Sale at DjangoCon
 tags: [DjangoCon]

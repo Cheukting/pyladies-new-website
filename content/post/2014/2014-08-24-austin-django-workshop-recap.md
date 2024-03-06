@@ -1,4 +1,5 @@
 ---
+date: 2014-08-24
 layout: post.html
 title: "PyLadiesATX event: What's a Web Framework? Python, Django, and more"
 tags: [events, django, austin]

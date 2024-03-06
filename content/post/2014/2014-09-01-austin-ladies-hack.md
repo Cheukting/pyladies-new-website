@@ -1,4 +1,5 @@
 ---
+date: 2014-09-01
 layout: post.html
 title: "Austin Ladies Hack"
 tags: [Blog, events, austin]

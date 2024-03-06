@@ -1,4 +1,5 @@
 ---
+date: 2020-07-01
 layout: post.html
 title: "Announcement for Registering PyLadies Members"
 tags: [PyLadies, Global, Organizing]

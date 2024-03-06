@@ -1,4 +1,5 @@
 ---
+date: 2012-05-12
 layout: post.html
 title: SF Study Group
 tags: [Events]

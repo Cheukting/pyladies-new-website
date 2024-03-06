@@ -1,4 +1,5 @@
 ---
+date: 2020-09-21
 layout: post.html
 title: "Announcing the Inaugural PyLadies Global Council"
 tags: [PyLadies, Global, Organizing]

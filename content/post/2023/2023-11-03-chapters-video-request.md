@@ -1,4 +1,5 @@
 ---
+date: 2023-11-03
 layout: post.html
 title: "🎬 Share Your PyLadies Chapter at PyLadiesCon!"
 tags: [PyLadies, Conference, Global]

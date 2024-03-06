@@ -1,4 +1,5 @@
 ---
+date: 2014-08-26
 layout: post.html
 title: "PyLadies, PyCon, and You"
 tags: [speaking, pycon, mentoring, conferences]

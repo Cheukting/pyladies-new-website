@@ -1,4 +1,5 @@
 ---
+date: 2023-09-05
 layout: post.html
 title: "PyLadiesCon - CFP Outreach Kit (Français)"
 tags: [PyLadies, Conference, Global]

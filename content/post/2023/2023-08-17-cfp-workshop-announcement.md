@@ -1,4 +1,5 @@
 ---
+date: 2023-08-17
 layout: post.html
 title: "PyLadiesCon - CfP Workshop"
 tags: [PyLadies, Conference, Global]

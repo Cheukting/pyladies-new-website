@@ -1,4 +1,5 @@
 ---
+date: 2011-08-16
 layout: post.html
 title: Mid-August News Bites
 tags: [Updates]

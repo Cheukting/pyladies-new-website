@@ -1,4 +1,5 @@
 ---
+date: 2013-05-07
 layout: post.html
 title: "User Groups"
 tags: ["user groups", "irc"]

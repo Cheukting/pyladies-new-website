@@ -1,4 +1,5 @@
 ---
+date: 2013-02-23
 layout: post.html
 title: Why PyLadies?
 tags: [PyLadies Locations, Portland]

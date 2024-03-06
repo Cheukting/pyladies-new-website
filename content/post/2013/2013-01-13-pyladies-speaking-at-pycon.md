@@ -1,4 +1,5 @@
 ---
+date: 2013-01-13
 layout: post.html
 title: "PyLadies Speak at PyCon!"
 tags: [PyCon, conferences]

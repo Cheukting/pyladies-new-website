@@ -1,4 +1,5 @@
 ---
+date: 2014-07-29
 layout: post.html
 title: "Tutorials and How-tos"
 tags: [tutorials]

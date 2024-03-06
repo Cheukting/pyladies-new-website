@@ -1,4 +1,5 @@
 ---
+date: 2013-03-07
 layout: post.html
 title: "PyLadies @ PyCon - Join Us!"
 tags: [pycon, events]

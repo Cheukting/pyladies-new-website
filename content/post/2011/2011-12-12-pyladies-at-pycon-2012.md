@@ -1,4 +1,5 @@
 ---
+date: 2011-12-12
 layout: post.html
 title: PyLadies at PyCon 2012
 tags: [PyCon]

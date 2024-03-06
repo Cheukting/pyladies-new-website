@@ -1,4 +1,5 @@
 ---
+date: 2013-03-06
 layout: post.html
 title: "Get Your Mac Ready for Python Programming"
 tags: [absolute beginner, getting started, Mac OS X]

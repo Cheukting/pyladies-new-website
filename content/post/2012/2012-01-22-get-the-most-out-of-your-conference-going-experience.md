@@ -1,4 +1,5 @@
 ---
+date: 2012-01-22
 layout: post.html
 title: Get the Most out of your Conference-going Experience
 tags: [Conferences]

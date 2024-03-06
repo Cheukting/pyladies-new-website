@@ -1,4 +1,5 @@
 ---
+date: 2011-06-07
 layout: post.html
 title: Thank you, Python Software Foundation!
 tags: [Announcements]

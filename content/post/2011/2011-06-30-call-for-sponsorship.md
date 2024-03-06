@@ -1,4 +1,5 @@
 ---
+date: 2011-06-30
 layout: post.html
 title: Call for Sponsorship
 tags: [Sponsor]

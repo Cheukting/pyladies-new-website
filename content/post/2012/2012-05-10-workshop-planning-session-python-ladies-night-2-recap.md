@@ -1,4 +1,5 @@
 ---
+date: 2012-05-10
 layout: post.html
 title: Workshop Planning Session
 tags: [Events]

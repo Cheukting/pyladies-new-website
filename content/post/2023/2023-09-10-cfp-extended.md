@@ -1,4 +1,5 @@
 ---
+date: 2023-09-10
 layout: post.html
 title: "Announcement: CFP Extended"
 tags: [PyLadies, Conference, Global]

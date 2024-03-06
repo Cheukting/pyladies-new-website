@@ -1,4 +1,5 @@
 ---
+date: 2013-10-04
 layout: post.html
 title: "PyCon 2014: Lightning Talks Proposals Due October 15th!"
 tags: [pycon]

@@ -1,4 +1,5 @@
 ---
+date: 2013-02-26
 layout: post.html
 title: "How I Learned to Stop Worrying and Love Rebase"
 tags: [rebase, git, version control]

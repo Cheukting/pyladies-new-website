@@ -1,4 +1,5 @@
 ---
+date: 2023-07-28
 layout: post.html
 title: "Announcement: CFP Launch"
 tags: [PyLadies, Conference, Global]

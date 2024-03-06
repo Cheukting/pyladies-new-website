@@ -1,4 +1,5 @@
 ---
+date: 2013-04-10
 layout: post.html
 title: "Code of Conduct"
 tags: [CoC]

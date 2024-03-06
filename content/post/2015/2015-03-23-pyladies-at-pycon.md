@@ -1,4 +1,5 @@
 ---
+date: 2015-03-23
 layout: post.html
 title: "A PyLadies-packed PyCon 2015"
 tags: [PyCon]

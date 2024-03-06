@@ -1,4 +1,5 @@
 ---
+date: 2012-05-21
 layout: post.html
 title: SF PyLadies First Workshop
 tags: [Events]

@@ -1,4 +1,5 @@
 ---
+date: 2011-09-14
 layout: post.html
 title: "Recap: PyLadies at DjangoCon 2011"
 tags: [DjangoCon]

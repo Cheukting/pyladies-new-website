@@ -1,4 +1,5 @@
 ---
+date: 2012-07-10
 layout: post.html
 title: Government Fellowship Opportunity 
 tags: [Events]

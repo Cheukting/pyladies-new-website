@@ -1,4 +1,5 @@
 ---
+date: 2011-06-02
 layout: post.html
 title: Python Ladies' Night 3
 tags: [Events]

@@ -1,4 +1,5 @@
 ---
+date: 2014-01-30
 layout: post.html
 title: "PyLadies at PyCon 2014: tutorial spotlight"
 tags: [Events, PyCon, Conferences]

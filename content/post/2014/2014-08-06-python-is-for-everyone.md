@@ -1,4 +1,5 @@
 ---
+date: 2014-08-06
 layout: post.html
 title: "Python is for everyone"
 tags: [diversity]

@@ -1,4 +1,5 @@
 ---
+date: 2023-10-02
 layout: post.html
 title: "PyLadiesCon - Sponsorship Launch"
 tags: [PyLadies, Conference, Global]

@@ -1,4 +1,5 @@
 ---
+date: 2013-04-04
 layout: post.html
 title: "How to hook people on CS through Magic"
 tags: [computer science, magic, outreach]

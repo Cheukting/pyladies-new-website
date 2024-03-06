@@ -1,4 +1,5 @@
 ---
+date: 2013-04-19
 layout: post.html
 title: "Libraries"
 tags: [libraries]

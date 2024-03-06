@@ -1,4 +1,5 @@
 ---
+date: 2011-09-05
 layout: post.html
 title: DjangoCon Sponsorship Program
 tags: [DjangoCon, Sponsors]

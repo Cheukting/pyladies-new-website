@@ -1,4 +1,5 @@
 ---
+date: 2014-03-05
 layout: post.html
 title: "Contributing your first patch to Python: PyLadies office hours"
 tags: [Announcements, outreach]

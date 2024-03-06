@@ -1,4 +1,5 @@
 ---
+date: 2013-07-16
 layout: post.html
 title: "PyCon 2014 Call for Proposals is open"
 tags: [Events, PyCon, Conferences]

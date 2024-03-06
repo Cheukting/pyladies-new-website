@@ -1,4 +1,5 @@
 ---
+date: 2014-08-05
 layout: post.html
 title: "The first Django Girls happened!"
 tags: [DjangoGirls]

@@ -1,4 +1,5 @@
 ---
+date: 2016-08-01
 layout: post.html
 title: "EuroPython 2016, a first time participant's thoughts!"
 tag: [EuroPython]

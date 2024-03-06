@@ -1,4 +1,5 @@
 ---
+date: 2012-05-17
 layout: post.html
 title: Jessica McKellar to be Keynte speaker at DjangoCon Europe!
 tags: [DjangoCon, Announcements]

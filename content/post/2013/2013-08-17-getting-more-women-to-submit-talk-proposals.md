@@ -1,4 +1,5 @@
 ---
+date: 2013-08-17
 layout: post.html
 title: "Getting More Women to Submit Talk Proposals"
 tags: [PyCon, conferences]

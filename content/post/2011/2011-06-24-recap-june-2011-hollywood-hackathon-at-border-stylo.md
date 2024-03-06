@@ -1,4 +1,5 @@
 ---
+date: 2011-06-24
 layout: post.html
 title: "Recap: Hollywood Hackathon at Border Stylo"
 tags: [Events]

@@ -1,4 +1,5 @@
 ---
+date: 2014-12-01
 layout: post.html
 title: "Donate to PyLadies @ PyCon 2015!"
 tags: [PyCon]

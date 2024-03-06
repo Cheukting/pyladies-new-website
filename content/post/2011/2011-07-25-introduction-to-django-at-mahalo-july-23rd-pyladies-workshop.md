@@ -1,4 +1,5 @@
 ---
+date: 2011-07-25
 layout: post.html
 title: Intro to Django at Mahalo
 tags: [Events, Django]

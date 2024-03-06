@@ -1,4 +1,5 @@
 ---
+date: 2013-08-18
 layout: post.html
 title: PyCon 2014 Proposal Brainstorm Sessions!
 tags: [Events]

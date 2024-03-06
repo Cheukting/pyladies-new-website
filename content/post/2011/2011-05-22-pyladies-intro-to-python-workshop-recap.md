@@ -1,4 +1,5 @@
 ---
+date: 2011-05-22
 layout: post.html
 title: PyLadies Intro to Python Workshop
 tags: [Events]

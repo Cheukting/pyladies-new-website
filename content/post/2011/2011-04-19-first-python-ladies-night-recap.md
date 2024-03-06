@@ -1,4 +1,5 @@
 ---
+date: 2011-04-19
 layout: post.html
 title: First Python Ladies' Night Recap
 tags: [Events]

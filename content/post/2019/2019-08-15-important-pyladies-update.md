@@ -1,4 +1,5 @@
 ---
+date: 2019-08-15
 layout: post.html
 title: "Important PyLadies Update"
 tags: [PyCon, PyLadies, Global, Organizing]

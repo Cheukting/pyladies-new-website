@@ -1,4 +1,5 @@
 ---
+date: 2021-06-20
 layout: post.html
 title: "Global Council Announcement"
 tags: [COVID-19, Global Council, Organizing, PyLadies]

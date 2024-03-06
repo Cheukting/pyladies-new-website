@@ -1,4 +1,5 @@
 ---
+date: 2023-09-08
 layout: post.html
 title: "PyLadiesCon - Thank You CfP Workshop Mentors"
 tags: [PyLadies, Conference, Global]

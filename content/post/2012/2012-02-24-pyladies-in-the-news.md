@@ -1,4 +1,5 @@
 ---
+date: 2012-02-24
 layout: post.html
 title: PyLadies in the News
 tags: [Updates]

@@ -1,4 +1,5 @@
 ---
+date: 2014-08-25
 layout: post.html
 title: "Educational Resources for Community Conduct/Creating Safe Spaces"
 tags: [community, education]

@@ -1,4 +1,5 @@
 ---
+date: 2024-01-22
 layout: post.html
 title: "Announcing: The Outstanding PyLady Award"
 tags: [PyLadies, Global, Community, Outreach]

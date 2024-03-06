@@ -1,4 +1,5 @@
 ---
+date: 2023-10-03
 layout: post.html
 title: "PyLadiesCon - CFP Closed. A summary, and a Retrospective. "
 tags: [PyLadies, Conference, Global]

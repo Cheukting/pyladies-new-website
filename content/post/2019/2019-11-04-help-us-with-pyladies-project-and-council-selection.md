@@ -1,4 +1,5 @@
 ---
+date: 2019-11-04
 layout: post.html
 title: "Help us decide our PyLadies Projects and PyLadies Global Council Selection Process!"
 tags: [PyCon, PyLadies, Global, Organizing]

@@ -1,4 +1,5 @@
 ---
+date: 2012-03-29
 layout: post.html
 title: Bay Area Girl Geek Dinner
 tags: [events]

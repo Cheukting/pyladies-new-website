@@ -1,4 +1,5 @@
 ---
+date: 2011-07-12
 layout: post.html
 title: Django Workshop and Hackathon
 tags: [Events]

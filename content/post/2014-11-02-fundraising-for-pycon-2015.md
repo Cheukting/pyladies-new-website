@@ -1,4 +1,5 @@
 ---
+date: 2014-11-02
 layout: post.html
 title: "Fundraising for PyLadies for PyCon 2015"
 tags: [PyCon]

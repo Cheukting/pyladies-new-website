@@ -1,4 +1,5 @@
 ---
+date: 2014-07-27
 layout: post.html
 title: "Call for Blog Posts: Share Your Inspiring Stories"
 tags: [Blog]

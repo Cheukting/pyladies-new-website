@@ -1,4 +1,5 @@
 ---
+date: 2012-08-09
 layout: post.html
 title: "DjangoCon 2012: Pro Tips for those new to D.C."
 tags: [Events]
