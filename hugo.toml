@@ -2,6 +2,7 @@ baseURL = 'https://pyladies.com/'
 languageCode = 'en-us'
 title = 'PyLadies'
 theme = 'beautifulhugo'
+summaryLength = 30
 
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -104,6 +105,12 @@ googleAnalytics = "UA-36930002-1"
     weight = 3
 
 [[menu.main]]
+    parent = "about"
+    name = "Contacts"
+    url = "https://github.com/pyladies/info/"
+    weight = 4
+
+[[menu.main]]
     name = "Blog"
     url = "post/"
     weight = 2
@@ -119,14 +126,9 @@ googleAnalytics = "UA-36930002-1"
     weight = 4
 
 [[menu.main]]
-    name = "Contacts"
-    url = "https://github.com/pyladies/info/"
-    weight = 5
-
-[[menu.main]]
     identifier = "support"
     name = "Support"
-    weight = 6
+    weight = 5
 
 [[menu.main]]
     parent = "support"
