@@ -13,6 +13,9 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 googleAnalytics = "UA-36930002-1"
 
+[taxonomies]
+  category = 'category'
+  tag = 'tags'
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -122,7 +125,7 @@ googleAnalytics = "UA-36930002-1"
 
 [[menu.main]]
     name = "Resources"
-    url = "page/resources/"
+    url = "category/resources/"
     weight = 4
 
 [[menu.main]]

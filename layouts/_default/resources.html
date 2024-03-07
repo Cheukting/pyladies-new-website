@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+        <div class="posts-list">
+          {{ range .Pages}}
+            {{ if in .Params.category "pyladies"}}
+                {{ partial "post_preview.html" .}}
+            {{ end }}
+          {{ end }}
+        </div>
+        </br>
+        <h1> OTHER RESOURCES WE LIKE </h1>
+        <hr/>
+        <br/>
+        <div class="posts-list">
+          {{ range .Pages}}
+            {{ if not (in .Params.category "pyladies")}}
+                {{ partial "resource_preview.html" .}}
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}
