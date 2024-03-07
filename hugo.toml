@@ -35,7 +35,8 @@ googleAnalytics = "UA-36930002-1"
   showRelatedPosts = true
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+ disclaimerText = "Disclaimer - PyLadies and the PyLadies logo are trademarks of the Python Software Foundation"
+ since = "2007"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -51,7 +52,7 @@ googleAnalytics = "UA-36930002-1"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "A PyLady"
+  # name = ""
   # website = "yourwebsite.com"
   # email = "youremail@domain.com"
   facebook = "pyladies"
