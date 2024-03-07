@@ -1,4 +1,4 @@
-baseURL = 'https://pyladies.com/'
+baseURL = 'https://dainty-arithmetic-d91235.netlify.app/' #'https://pyladies.com/'
 languageCode = 'en-us'
 title = 'PyLadies'
 theme = 'beautifulhugo'
