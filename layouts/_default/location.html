@@ -1,0 +1,62 @@
+{{ define "main" }}
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
+
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div id="map" class="leaflet-container leaflet-retina leaflet-fade-anim">
+            <iframe src="https://www.google.com/maps/d/embed?mid=1QINwclDD_RxTtFcaw-wF5vYhdvNFlG-Q" width="750" height="450"></iframe>
+        </div>
+
+        <section id="archive">
+                <article class="chapters">
+                    <div class="social">
+                        {{ range sort .Site.Data.chapters "name"}}
+                        <div class="chapter_location" data-meetup-id="{{ .meetup_id }}" data-chapter-name="{{ .name }}" >
+                            <div class="logo-container">
+                              {{ if .image }}
+                                <img src="/img/chapters/{{ .image }}" alt="{{ .name }}" />
+                              {{ else }}
+                                <img src="/img/pyladies-sq-logo.png" alt="{{ .name }}" />
+                              {{ end }}
+                            </div>
+                            <h3 class="chpts chapter-name">
+                                {{ if .external_website }}
+                                    <a href="{{ .website }}">
+                                      {{ .name }} </a>
+                                {{ else }}
+                                    {{ .name }}
+                                {{ end }}
+                            </h3>
+                            <h3 class="chpts social-icons">
+                                {{ if .website }}
+                                <a class="icon-earth" data-icon="&#xe9ca;" href="{{ .website }}" title="Website"></a>
+                                {{ end }}
+                                {{ if .email }}
+                                <a class="icon-mail4" data-icon="&#xea86;" href="mailto:{{ .email }}" title="Contact"></a>
+                                {{ end }}
+                                {{ if .facebook }}
+                                <a class="icon-facebook" data-icon="&#xea90;" href="https://facebook.com/{{ .facebook }}" title="Facebook"></a>
+                                {{ end }}
+                                {{ if .github }}
+                                <a class="icon-github" data-icon="&#xeab0;" href="http://github.com/{{ .github }}" title="GitHub"></a>
+                                {{ end }}
+                                {{ if .twitter }}
+                                <a class="icon-twitter" data-icon="&#xea96;" href="https://twitter.com/{{ .twitter }}" title="Twitter"></a>
+                                {{ end }}
+                                {{ if .meetup }}
+                                <a class="icon-meetup" data-icon="&#xe901;" title="Meetup Link" href="http://www.meetup.com/{{ .meetup }}/"></a>
+                                {{ end }}
+                            </h3>
+                        </div>
+                        {{ end }}
+                  </div>
+                </article>
+        </section>
+
+
+      </div>
+    </div>
+  </div>
+{{ end }}

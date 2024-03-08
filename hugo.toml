@@ -105,7 +105,7 @@ googleAnalytics = "UA-36930002-1"
 [[menu.main]]
     parent = "about"
     name = "Locations"
-    url = "https://chapters.pyladies.com/"
+    url = "location/"
     weight = 3
 
 [[menu.main]]
