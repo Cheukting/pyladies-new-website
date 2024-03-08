@@ -982,7 +982,7 @@ h4.see-also {
 /* --- locaions --- */
 
 #map {
-    height: 450px;
+    height: 320px;
 }
 
 .chapter_location {
@@ -995,6 +995,13 @@ h4.see-also {
     margin: 2%;
 }
 
+@media only screen and (max-width: 680px){
+  .chapter_location {
+      width: 94%;
+      margin: 4% 2%;
+  }
+}
+
 .chapter_location > h3 {
     font-size: 1.3em;
     text-align: center;
@@ -1005,10 +1012,26 @@ h4.see-also {
     margin-left: 33%;
     margin-top: 10px;
 }
+
+.logo-container {
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    margin-bottom: 15px;
+}
+
 .logo-container img {
     max-height: 100px;
     max-width: 100px;
     vertical-align: middle;
+}
+
+article {
+    width: 90%;
+    font-size: 1.0em;
+    line-height: 1.2em;
+    margin: 0 0 40px 0;
+    display: block;
 }
 
 section#archive .chapter_location h3.chpts {
@@ -1061,44 +1084,44 @@ section#archive h3 a {
 .icon-meetup:before {
   content: "\e901";
   color: #808080;
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 .icon-slack:before {
   content: "\e900";
   color: #ff4040;
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 .icon-earth:before {
   content: "\e9ca";
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 .icon-mail4:before {
   content: "\ea86";
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 .icon-facebook:before {
   content: "\ea90";
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 .icon-instagram:before {
   content: "\ea92";
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 .icon-twitter:before {
   content: "\ea96";
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 .icon-youtube:before {
   content: "\ea9d";
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 .icon-github:before {
   content: "\eab0";
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 .icon-linkedin2:before {
   content: "\eaca";
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 
 .ribbon {
